@@ -1,3 +1,5 @@
+<img width="902" height="714" alt="image" src="https://github.com/user-attachments/assets/6206f4c5-d3b2-4b8f-9f2a-a1e1d3e8eb98" />
+
 # Tailcat 项目介绍
 
 **tailcat** 是由 Tailscale 官方开源的一个命令行工具（CLI）和 Go 语言库。
